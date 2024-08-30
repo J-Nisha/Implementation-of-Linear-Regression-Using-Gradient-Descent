@@ -20,7 +20,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: Nisha.J
 RegisterNumber:212223040133
 ```
-
+```
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
